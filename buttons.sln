@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "buttons", "..\..\Visual Studio 2015\WebSites\buttons\", "{C781A9CF-67B8-4319-8391-534ACD880215}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64214"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\Visual Studio 2015\WebSites\buttons\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64214\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64214"
+		Release.AspNetCompiler.PhysicalPath = "..\..\Visual Studio 2015\WebSites\buttons\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64214\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64214"
+		SlnRelativePath = "..\..\Visual Studio 2015\WebSites\buttons\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C781A9CF-67B8-4319-8391-534ACD880215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C781A9CF-67B8-4319-8391-534ACD880215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
